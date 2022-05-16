@@ -46,3 +46,6 @@ To run integration tests execute:
 ```
 make test
 ```
+
+## CDK deployment by Ric
+https://gitlab.com/ric_harvey/bl_practical_fargate/-/blob/master/docs/deploy-using-copilot.md
